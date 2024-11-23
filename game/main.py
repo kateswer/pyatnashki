@@ -3,8 +3,6 @@ import tkinter as tk
 import random
 import time
 
-pip install pipreqs
-
 
 
 class PuzzleGame:
