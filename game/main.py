@@ -3,8 +3,6 @@ import tkinter as tk
 import random
 import time
 
-pip install pipreqs
-
 
 
 class PuzzleGame:
@@ -109,5 +107,4 @@ if __name__ == "__main__":
         else:
             print("Неверный уровень. Пожалуйста, выберите 2, 3 или 4:")
 
-pipreqs
 
